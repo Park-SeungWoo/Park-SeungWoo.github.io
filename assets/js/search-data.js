@@ -41,16 +41,16 @@ ninja.data = [{
             window.location.href = "/blog/2025/reflection2025/";
           
         },
-      },{id: "books-유닉스의-탄생",
+      },{id: "books-큰-뜻을-품은-자여-왜-그-자리에-머물러-있는가",
+          title: '큰 뜻을 품은 자여, 왜 그 자리에 머물러 있는가',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/big_dream/";
+            },},{id: "books-유닉스의-탄생",
           title: '유닉스의 탄생',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_birth_of_unix/";
-            },},{id: "books-큰-뜻을-품은-자여-왜-그-자리에-머물러-있는가",
-          title: '큰 뜻을 품은 자여, 왜 그 자리에 머물러 있는가',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/turing_s_vision%20copy/";
             },},{id: "books-turing-39-s-vision-the-birth-of-computer-science",
           title: 'Turing&amp;#39;s vision - The birth of Computer Science',
           description: "",
