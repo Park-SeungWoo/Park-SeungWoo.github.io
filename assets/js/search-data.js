@@ -46,6 +46,36 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/big_dream/";
+            },},{id: "books-코스모스",
+          title: '코스모스',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/cosmos/";
+            },},{id: "books-미움-받을-용기",
+          title: '미움 받을 용기',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/courage_to_be_disliked/";
+            },},{id: "books-데미안",
+          title: '데미안',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/demian/";
+            },},{id: "books-꿈의-해석",
+          title: '꿈의 해석',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/interpretation_of_dreams/";
+            },},{id: "books-프로젝트-헤일메리",
+          title: '프로젝트 헤일메리',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/project_hailmary/";
+            },},{id: "books-싯다르타",
+          title: '싯다르타',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/siddhartha/";
             },},{id: "books-유닉스의-탄생",
           title: '유닉스의 탄생',
           description: "",
