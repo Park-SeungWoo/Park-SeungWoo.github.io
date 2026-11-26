@@ -11,6 +11,5 @@ finished:
 released: 2025
 stars: 
 goodreads_review: 
-status: QUEUED
+status: FiNISHED
 ---
-

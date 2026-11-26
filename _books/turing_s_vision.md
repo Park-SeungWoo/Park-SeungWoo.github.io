@@ -13,6 +13,6 @@ finished:
 released: 2017
 stars: 5
 goodreads_review: 8170885883
-status: reading
+status: FINISHED
 ---
 
