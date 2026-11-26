@@ -11,7 +11,7 @@ profile:
   more_info: >
     
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -25,4 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+Curious about intelligence, learning, and the nature of human cognition.
 
+I am interested in exploring the computational principles underlying biological intelligence and translating these insights into new approaches to artificial intelligence.
+
+I believe that meaningful discoveries often emerge at the intersection of different disciplines.

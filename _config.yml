@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Naive Learnings # the website title (if blank, full name will be used instead)
+title: Naive Notes # the website title (if blank, full name will be used instead)
 first_name: SeungWoo
 middle_name: (Jeremy)
 last_name: Park
@@ -84,8 +84,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Naive Learnings # blog_name will be displayed in your blog page
-blog_description: Naive learning notes from computer science, engineering and physics.
+blog_name: Naive Notes # blog_name will be displayed in your blog page
+blog_description: A collection of things I learn, thoughts I gather, and reflections along the way. A space to explore ideas, question assumptions, and make sense of the world one note at a time.
 permalink: /blog/:year/:title/
 lsi: true # produce an index for related posts
 
@@ -249,8 +249,8 @@ jekyll-archives:
   books:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
-display_tags: ["operating system", "algorithm", "linear-algebra", "computer-vision", "reflection", "quantum-mechanics"] # these tags will be displayed on the front page of your blog
-display_categories: ["reflection", "computer-science", "math", "artificial-intelligence", "paper", "physics", "travel"] # these categories will be displayed on the front page of your blog
+display_tags: [] # these tags will be displayed on the front page of your blog
+display_categories: ["reflection", "neuroscience", "computer-science", "physics", "mathematics"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
